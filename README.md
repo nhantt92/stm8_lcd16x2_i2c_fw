@@ -1,2 +1,1 @@
-# stm8_lcd16x2_i2c_fw
-stm8_lcd16x2_i2c_fw
+# sdcc-stm8-example
